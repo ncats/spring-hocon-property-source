@@ -47,7 +47,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <spring-boot.version>2.2.8.RELEASE</spring-boot.version>
-        <hocon.version>1.4.0</hocon.version>
+        <hocon.version>1.4.3</hocon.version>
     </properties>
 
     <prerequisites>
