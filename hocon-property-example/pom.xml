@@ -9,7 +9,7 @@
     <version>0.1-SNAPSHOT</version>
     
     <properties>
-        <spring-boot.version>2.2.8.RELEASE</spring-boot.version>
+        <spring-boot.version>3.4.0</spring-boot.version>
     </properties>
 
     <build>
